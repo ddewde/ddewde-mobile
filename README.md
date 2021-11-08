@@ -1,3 +1,3 @@
 # ddewde-mobile
 
-optimización para dispositivos móbiles
+optimización para dispositivos móviles
